@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[PTT Status]]></title>
+  
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://zhengda.github.io/"/>
+  <updated>2015-05-29T20:24:19.957Z</updated>
+  <id>http://zhengda.github.io/</id>
+  
+  <author>
+    <name><![CDATA[pttstatus]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[test]]></title>
+    <link href="http://zhengda.github.io/2015/05/30/test/"/>
+    <id>http://zhengda.github.io/2015/05/30/test/</id>
+    <published>2015-05-29T20:23:48.000Z</published>
+    <updated>2015-05-29T20:24:19.957Z</updated>
+    <content type="html"><![CDATA[<p>test</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>test</p>
+]]>
+    </summary>
+    
+      <category term="test" scheme="http://zhengda.github.io/tags/test/"/>
+    
+  </entry>
+  
+</feed>
