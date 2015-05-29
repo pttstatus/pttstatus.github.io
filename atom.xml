@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://zhengda.github.io/"/>
-  <updated>2015-05-29T20:24:19.957Z</updated>
+  <updated>2015-05-29T21:49:11.534Z</updated>
   <id>http://zhengda.github.io/</id>
   
   <author>
@@ -19,12 +19,10 @@
     <link href="http://zhengda.github.io/2015/05/30/test/"/>
     <id>http://zhengda.github.io/2015/05/30/test/</id>
     <published>2015-05-29T20:23:48.000Z</published>
-    <updated>2015-05-29T20:24:19.957Z</updated>
-    <content type="html"><![CDATA[<p>test</p>
-]]></content>
+    <updated>2015-05-29T21:49:11.534Z</updated>
+    <content type="html"></content>
     <summary type="html">
-    <![CDATA[<p>test</p>
-]]>
+    
     </summary>
     
       <category term="test" scheme="http://zhengda.github.io/tags/test/"/>
