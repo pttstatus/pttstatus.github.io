@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://zhengda.github.io/"/>
-  <updated>2016-06-10T09:59:07.263Z</updated>
+  <updated>2016-06-10T10:13:27.306Z</updated>
   <id>http://zhengda.github.io/</id>
   
   <author>
@@ -15,17 +15,17 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[ptt自帶的統計資訊]]></title>
+    <title><![CDATA[PTT自帶的統計資訊]]></title>
     <link href="http://zhengda.github.io/2016/06/10/ptt%E8%87%AA%E5%B8%B6%E7%9A%84%E7%B5%B1%E8%A8%88%E8%B3%87%E8%A8%8A/"/>
     <id>http://zhengda.github.io/2016/06/10/ptt自帶的統計資訊/</id>
     <published>2016-06-10T09:38:30.000Z</published>
-    <updated>2016-06-10T09:59:07.263Z</updated>
+    <updated>2016-06-10T10:13:27.306Z</updated>
     <content type="html"><![CDATA[<h4 id="statistics_entry">statistics entry</h4><p><a href="https://www.ptt.cc/statistics.html" target="_blank" rel="external">https://www.ptt.cc/statistics.html</a></p>
 <h4 id="mrtg">mrtg</h4><p><a href="https://mrtg.ptt.cc/" target="_blank" rel="external">https://mrtg.ptt.cc/</a></p>
-<h4 id="主要的線上人數總計和網路流量">主要的線上人數總計和網路流量</h4><p><a href="https://mrtg.ptt.cc/cgi-bin/easyrrd.pl/ptt_users.html?cfg=stats.conf" target="_blank" rel="external">https://mrtg.ptt.cc/cgi-bin/easyrrd.pl/ptt_users.html?cfg=stats.conf</a><br><img src="https://mrtg.ptt.cc/cgi-bin/easyrrd.pl/ptt_users-day.png?cfg=stats.conf" alt="online user `Daily&#39; Graph (5 Minute Average)"><br><img src="https://mrtg.ptt.cc/cgi-bin/easyrrd.pl/ptt_users-week.png?cfg=stats.conf" alt="online user `Weekly&#39; Graph (30 Minute Average)"><br>看週統計圖時會發現每週日5:00AM會有30分鐘左右的停機時間。<br><img src="https://mrtg.ptt.cc/cgi-bin/easyrrd.pl/ptt_users-month.png?cfg=stats.conf" alt="online user `Monthly&#39; Graph (2 Hour Average)"><br><img src="https://mrtg.ptt.cc/cgi-bin/easyrrd.pl/ptt_users-year.png?cfg=stats.conf" alt="online user `Yearly&#39; Graph (1 Day Average)"><br>年統計圖裡有時也可看到缺口。若不是異常停機就是ptt因為台大電源維護所進行的停機時間。</p>
+<h4 id="主要的線上人數總計和網路流量">主要的線上人數總計和網路流量</h4><p><a href="https://mrtg.ptt.cc/cgi-bin/easyrrd.pl/PTT_users.html?cfg=stats.conf" target="_blank" rel="external">https://mrtg.ptt.cc/cgi-bin/easyrrd.pl/PTT_users.html?cfg=stats.conf</a><br><img src="https://mrtg.ptt.cc/cgi-bin/easyrrd.pl/PTT_users-day.png?cfg=stats.conf" alt="online user `Daily&#39; Graph (5 Minute Average)"><br><img src="https://mrtg.ptt.cc/cgi-bin/easyrrd.pl/PTT_users-week.png?cfg=stats.conf" alt="online user `Weekly&#39; Graph (30 Minute Average)"><br>看週統計圖時會發現每週日5:00AM會有30分鐘左右的停機時間。<br><img src="https://mrtg.ptt.cc/cgi-bin/easyrrd.pl/PTT_users-month.png?cfg=stats.conf" alt="online user `Monthly&#39; Graph (2 Hour Average)"><br><img src="https://mrtg.ptt.cc/cgi-bin/easyrrd.pl/PTT_users-year.png?cfg=stats.conf" alt="online user `Yearly&#39; Graph (1 Day Average)"><br>年統計圖裡有時也可看到缺口。若不是異常停機就是PTT因為台大電源維護所進行的停機時間。</p>
 <p><a href="https://mrtg.ptt.cc/cgi-bin/14all.cgi?log=ptt.cc_eth0&amp;cfg=hosts_public.cfg" target="_blank" rel="external">https://mrtg.ptt.cc/cgi-bin/14all.cgi?log=ptt.cc_eth0&amp;cfg=hosts_public.cfg</a><br><img src="https://mrtg.ptt.cc/cgi-bin/14all.cgi?log=ptt.cc_eth0&amp;cfg=hosts_public.cfg&amp;png=daily" alt="network traffic &#39;Daily&#39; graph (5 Minute Average)"><br><img src="https://mrtg.ptt.cc/cgi-bin/14all.cgi?log=ptt.cc_eth0&amp;cfg=hosts_public.cfg&amp;png=weekly" alt="network traffic &#39;Weekly&#39; graph (30 Minute Average)"><br><img src="https://mrtg.ptt.cc/cgi-bin/14all.cgi?log=ptt.cc_eth0&amp;cfg=hosts_public.cfg&amp;png=monthly" alt="network traffic &#39;Monthly&#39; graph (2 Hour Average)"><br><img src="https://mrtg.ptt.cc/cgi-bin/14all.cgi?log=ptt.cc_eth0&amp;cfg=hosts_public.cfg&amp;png=yearly" alt="network traffic &#39;Yearly&#39; graph (1 Day Average)"></p>
 <h4 id="還有mail跟dns的資料">還有mail跟dns的資料</h4><p><a href="https://mrtg.ptt.cc/mailgraph.html" target="_blank" rel="external">https://mrtg.ptt.cc/mailgraph.html</a><br><a href="https://mrtg.ptt.cc/bindgraph.html" target="_blank" rel="external">https://mrtg.ptt.cc/bindgraph.html</a></p>
-<h4 id="其他像是各版人數文章數等其他統計數據都要進入ptt_BBS系統裡才能查到">其他像是各版人數文章數等其他統計數據都要進入ptt BBS系統裡才能查到</h4>]]></content>
+<h4 id="其他像是各版人數文章數等其他統計數據都要進入PTT_BBS系統裡才能查到">其他像是各版人數文章數等其他統計數據都要進入PTT BBS系統裡才能查到</h4>]]></content>
     <summary type="html">
     <![CDATA[<h4 id="statistics_entry">statistics entry</h4><p><a href="https://www.ptt.cc/statistics.html" target="_blank" rel="external">https://www.pt]]>
     </summary>
@@ -35,17 +35,19 @@
   </entry>
   
   <entry>
-    <title><![CDATA[Congrats! ptt account amount 1900975]]></title>
+    <title><![CDATA[Congrats! PTT account amount 1900975]]></title>
     <link href="http://zhengda.github.io/2015/07/28/Congrats-ptt-account-amount-1900975/"/>
     <id>http://zhengda.github.io/2015/07/28/Congrats-ptt-account-amount-1900975/</id>
     <published>2015-07-28T11:03:43.000Z</published>
-    <updated>2015-07-29T15:05:24.034Z</updated>
+    <updated>2016-06-10T10:13:43.991Z</updated>
     <content type="html"><![CDATA[<p>賀！PTT目前帳號數榮破1,900,000.。<br>以目前一週10,000.的成長量來看，十前底前應該就要破2M。</p>
 ]]></content>
     <summary type="html">
     <![CDATA[<p>賀！PTT目前帳號數榮破1,900,000.。<br>以目前一週10,000.的成長量來看，十前底前應該就要破2M。</p>
 ]]>
     </summary>
+    
+      <category term="ptt" scheme="http://zhengda.github.io/tags/ptt/"/>
     
   </entry>
   
