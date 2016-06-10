@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://zhengda.github.io/"/>
-  <updated>2015-07-29T15:05:24.034Z</updated>
+  <updated>2016-06-10T09:43:30.349Z</updated>
   <id>http://zhengda.github.io/</id>
   
   <author>
@@ -13,6 +13,24 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[ptt自帶的統計資訊]]></title>
+    <link href="http://zhengda.github.io/2016/06/10/ptt%E8%87%AA%E5%B8%B6%E7%9A%84%E7%B5%B1%E8%A8%88%E8%B3%87%E8%A8%8A/"/>
+    <id>http://zhengda.github.io/2016/06/10/ptt自帶的統計資訊/</id>
+    <published>2016-06-10T09:38:30.000Z</published>
+    <updated>2016-06-10T09:43:30.349Z</updated>
+    <content type="html"><![CDATA[<p><a href="https://www.ptt.cc/statistics.html" target="_blank" rel="external">https://www.ptt.cc/statistics.html</a></p>
+<p><img src="https://mrtg.ptt.cc/cgi-bin/easyrrd.pl/ptt_users-day.png?cfg=stats.conf" alt="online user `Daily&#39; Graph (5 Minute Average)"></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><a href="https://www.ptt.cc/statistics.html" target="_blank" rel="external">https://www.ptt.cc/statistics.html</a></p>
+<p><img src="https]]>
+    </summary>
+    
+      <category term="ptt" scheme="http://zhengda.github.io/tags/ptt/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Congrats! ptt account amount 1900975]]></title>
